@@ -16,7 +16,7 @@
 
 ID、パスワードを入力して、［Login］をクリックします。
 
-![](.gitbook/assets/login.png)
+![](.gitbook/assets/login.png){: height="200"}
 
 ※最初のみSMS認証処理を行います。
 
