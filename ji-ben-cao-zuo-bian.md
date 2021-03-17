@@ -8,11 +8,15 @@
 
 注：チェック用レセプトの作成法はレセコンのサポート業者にご相談ください。 レセコンの機種によってはチェック用レセプトが作成できない場合があります。
 
-### ログイン
+### Google Chrom ブラウザ   [ダウンロード](https://www.google.co.jp/chrome/?brand=FDKM&gclid=Cj0KCQjwrsGCBhD1ARIsALILBYr0Moo0gPVqjheS9amL9joYxGxDtFBIwvu4vhcHOzXMZCSC0bZjH-AaAmjkEALw_wcB&gclsrc=aw.ds)
 
-サポートセンターからsms
+![Google Chrome  ](.gitbook/assets/chrome.png)
 
+### ログイン　[https://owlstart.owl-checker.com/login](https://owlstart.owl-checker.com/login)
 
+ID、パスワードを入力して、［Login］をクリックします。
+
+※最初のみSMS認証処理を行います。
 
 
 
