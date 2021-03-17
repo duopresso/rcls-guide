@@ -10,7 +10,7 @@
 
 ## Google Chrom ブラウザ   [ダウンロード](https://www.google.co.jp/chrome/?brand=FDKM&gclid=Cj0KCQjwrsGCBhD1ARIsALILBYr0Moo0gPVqjheS9amL9joYxGxDtFBIwvu4vhcHOzXMZCSC0bZjH-AaAmjkEALw_wcB&gclsrc=aw.ds)
 
-![Google Chrome ](.gitbook/assets/chrome.png)
+![Google Chrome ](.gitbook/assets/chrome.png){: height="200"}
 
 ## ログイン　[https://owlstart.owl-checker.com/login](https://owlstart.owl-checker.com/login)
 
