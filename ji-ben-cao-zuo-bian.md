@@ -16,5 +16,5 @@
 
 ID、パスワードを入力して、［Login］をクリックします。
 
-![](.gitbook/assets/login.png)
+![](.gitbook/assets/login.png){: height="300"}
 
