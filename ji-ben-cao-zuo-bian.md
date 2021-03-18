@@ -10,11 +10,17 @@
 
 ## Google Chrom ブラウザ   [ダウンロード](https://www.google.co.jp/chrome/?brand=FDKM&gclid=Cj0KCQjwrsGCBhD1ARIsALILBYr0Moo0gPVqjheS9amL9joYxGxDtFBIwvu4vhcHOzXMZCSC0bZjH-AaAmjkEALw_wcB&gclsrc=aw.ds)
 
-![Google Chrome ](.gitbook/assets/chrome.png){: height="200"}
+![Google Chrome ](.gitbook/assets/chrome.png)
 
 ## ログイン　[https://owlstart.owl-checker.com/login](https://owlstart.owl-checker.com/login)
 
 ID、パスワードを入力して、［Login］をクリックします。
 
-![](.gitbook/assets/login.png){: height="300"}
+![](.gitbook/assets/login.png)
+
+### レセプト取込
+
+左側のナビゲーションウィンドウの \[📂点検業務 \]  \[☁受付及び点検\] をダブルクリックします。
+
+
 
