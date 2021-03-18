@@ -24,7 +24,7 @@
   * [認証コード（ログイン）](yokuaru/kdoroguin.md)
   * [トライアル申込](yokuaru/toraiaru.md)
   * [本契約について](yokuaru/nitsuite.md)
-  * [Untitled](yokuaru/untitled.md)
+  * [Browser関連](yokuaru/untitled.md)
 * [Q&A](untitled-1/README.md)
   * [商品案内](untitled-1/shang-pin-an-nei.md)
   * [Tip](untitled-1/tip.md)
